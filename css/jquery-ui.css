@@ -1,0 +1,41 @@
+/*! jQuery UI - v1.10.3 - 2013-05-03
+* http://jqueryui.com
+* Includes: jquery.ui.core.css, jquery.ui.accordion.css, jquery.ui.autocomplete.css, jquery.ui.button.css, jquery.ui.datepicker.css, jquery.ui.dialog.css, jquery.ui.menu.css, jquery.ui.progressbar.css, jquery.ui.resizable.css, jquery.ui.selectable.css, jquery.ui.slider.css, jquery.ui.spinner.css, jquery.ui.tabs.css, jquery.ui.tooltip.css
+* To view and modify this theme, visit http://jqueryui.com/themeroller/?ffDefault=Verdana%2CArial%2Csans-serif&fwDefault=normal&fsDefault=1.1em&cornerRadius=4px&bgColorHeader=cccccc&bgTextureHeader=highlight_soft&bgImgOpacityHeader=75&borderColorHeader=aaaaaa&fcHeader=222222&iconColorHeader=222222&bgColorContent=ffffff&bgTextureContent=flat&bgImgOpacityContent=75&borderColorContent=aaaaaa&fcContent=222222&iconColorContent=222222&bgColorDefault=e6e6e6&bgTextureDefault=glass&bgImgOpacityDefault=75&borderColorDefault=d3d3d3&fcDefault=555555&iconColorDefault=888888&bgColorHover=dadada&bgTextureHover=glass&bgImgOpacityHover=75&borderColorHover=999999&fcHover=212121&iconColorHover=454545&bgColorActive=ffffff&bgTextureActive=glass&bgImgOpacityActive=65&borderColorActive=aaaaaa&fcActive=212121&iconColorActive=454545&bgColorHighlight=fbf9ee&bgTextureHighlight=glass&bgImgOpacityHighlight=55&borderColorHighlight=fcefa1&fcHighlight=363636&iconColorHighlight=2e83ff&bgColorError=fef1ec&bgTextureError=glass&bgImgOpacityError=95&borderColorError=cd0a0a&fcError=cd0a0a&iconColorError=cd0a0a&bgColorOverlay=aaaaaa&bgTextureOverlay=flat&bgImgOpacityOverlay=0&opacityOverlay=30&bgColorShadow=aaaaaa&bgTextureShadow=flat&bgImgOpacityShadow=0&opacityShadow=30&thicknessShadow=8px&offsetTopShadow=-8px&offsetLeftShadow=-8px&cornerRadiusShadow=8px
+* Copyright 2013 jQuery Foundation and other contributors Licensed MIT */
+
+/* Custom css
+--------------------------------------*/
+ul#ui-custom-id-1  { background:#fff; border: 1px solid #999; border-top: none; max-width: 307px; max-height: 350px; overflow-y:auto;  box-shadow: -2px 5px 6px -2px #ccc;}
+ul#ui-custom-id-1 li.ui-menu-item {white-space: normal; border-bottom: 1px solid #e1e1e1; padding:0;}
+ul#ui-custom-id-1 li.ui-menu-item a{ font-size: 12px; border: none; margin: 0; padding:5px 10px;}
+ul#ui-custom-id-1 li.ui-menu-item a.ui-state-focus { border: none; background: #888; color: #fff;}
+
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-top,
+ul#ui-custom-id-1 .ui-corner-left,
+ul#ui-custom-id-1 .ui-corner-tl {
+	border-top-left-radius: 0px;
+}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-top,
+ul#ui-custom-id-1 .ui-corner-right,
+ul#ui-custom-id-1 .ui-corner-tr {
+	border-top-right-radius: 0px;
+}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-bottom,
+ul#ui-custom-id-1 .ui-corner-left,
+ul#ui-custom-id-1 .ui-corner-bl {
+	border-bottom-left-radius: 0px;
+}
+ul#ui-custom-id-1,
+ul#ui-custom-id-1 .ui-corner-all,
+ul#ui-custom-id-1 .ui-corner-bottom,
+ul#ui-custom-id-1 .ui-corner-right,
+ul#ui-custom-id-1.ui-corner-br {
+	border-bottom-right-radius: 0px;
+}
