@@ -6,7 +6,7 @@ Tested up to: 4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 
-Description: Showing suggestions on searching from wordpress admin.
+Showing suggestions on searching from wordpress admin.
 
 == Description ==
 1. By using this plugin, admin can have search with suggestion of post/page's title or(all the available post types.).
@@ -17,8 +17,8 @@ Description: Showing suggestions on searching from wordpress admin.
 
 1. Copy the entire /auto-search-suggestion/ directory into your /wp-content/plugins/ directory.
 2. Activate the plugin.
-3. New Tab called Auto Search will be genereate.
-4. You can add set setting.
+3. New Tab called Auto Search will be genereated.
+4. You can setect post types.
 
 
 == Frequently Asked Questions ==
