@@ -6,7 +6,7 @@ Tested up to: 4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 
-Showing suggestions on searching from wordpress admin.
+This plugin will help admin of the website to filter the search of page/posts based on some criteria i.e. all the available post types. It will save time and avoid going through several unnecessary posts and pages, thus making the task of admin faster, smoother and smarter.
 
 == Description ==
 1. By using this plugin, admin can have search with suggestion of post/page's title or(all the available post types.).
