@@ -2,7 +2,7 @@
 Contributors: biztechc
 Tags: search,search suggestion, auto search suggestion
 Requires at least: 3.6.1
-Tested up to: 4.0
+Tested up to: 4.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 
